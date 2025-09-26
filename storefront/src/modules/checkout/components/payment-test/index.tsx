@@ -8,7 +8,7 @@ const PaymentTest = ({ className }: { className?: string }) => {
         className
       )}
     >
-      <span className="font-semibold">注意:</span> テスト目的のみに利用してください。
+      <span className="font-semibold">※</span> テスト専用
     </span>
   )
 }
